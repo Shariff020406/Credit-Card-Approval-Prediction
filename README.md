@@ -1,6 +1,6 @@
-#Credit Card Approval Prediction System
+Credit Card Approval Prediction System
 
-##Overview
+Overview
 
 The Credit Card Approval Prediction System is a comprehensive machine learning-based solution designed to automate the credit card approval process for financial institutions. This project analyzes applicant information such as income, employment status, credit history, and financial background to predict whether a credit card application should be approved or rejected. The system helps banks make faster, more accurate, and consistent decisions while minimizing manual effort and financial risk.
 
@@ -87,10 +87,6 @@ Jupyter Notebook
 Deployment Steps
 1. Install Dependencies
 pip install flask pandas numpy scikit-learn xgboost joblib
-2. Clone the Repository
-git clone https://github.com/yourusername/Credit-Card-Approval-Prediction.git
-3. Train the Model
-python train_model.py
 4. Start the Flask Application
 python app.py
 5. Open the Application
@@ -189,7 +185,7 @@ This project is intended for educational and research purposes to demonstrate ma
 
 Authors & Contributors
 
-Project Lead: Ahmed Shariff
+Project Lead: Shaik Ahmed Shariff
 
 Acknowledgments
 
